@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DhvaniArodiya
+- 👋 Hi, I’m Dhvani Arodiya
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning AIML
 - 💞️ I’m looking to collaborate on Linkedin
