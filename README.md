@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning AIML
 - 💞️ I’m looking to collaborate on Linkedin
-- 📫 How to reach me 22aidhv003@ldce.ac.in
+- 📫 How to reach me dhvaniarodiya@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Data Visualization is an easy task.
 
