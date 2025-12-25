@@ -1,3 +1,17 @@
+👋 Hello! I’m Dhvani
+
+A final-year Engineering student (2025) with a strong interest in **Artificial Intelligence, Machine Learning, and Data Analytics**.  
+I enjoy building practical, data-driven solutions and turning ideas into working applications through hands-on projects.
+
+🔍 What I Work On:
+- **AI & Machine Learning**: Developing predictive models, classification systems, and analytical solutions.
+- **Data Analysis & Visualization**: Extracting insights using Python, SQL, Power BI, and visualization tools.
+- **Project-Based Learning**: Applying concepts through real-world datasets and problem statements.
+
+🎯 My Goal:
+To grow as a skilled AI/ML professional by continuously learning, experimenting, and building solutions that solve real-world problems in a meaningful way.
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhvani-arodiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhvaniarodiya@gmail.com) 
 
