@@ -1,6 +1,6 @@
 *****👋 Hello! I’m Dhvani*****
 
-A final-year Engineering student (2025) with a strong interest in **Artificial Intelligence, Machine Learning, and Data Analytics**.  
+A final-year Engineering student (2026) with a strong interest in **Artificial Intelligence, Machine Learning, and Data Analytics**.  
 I enjoy building practical, data-driven solutions and turning ideas into working applications through hands-on projects.
 
 🔍 What I Work On:
